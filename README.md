@@ -57,7 +57,7 @@ $ npm start
 <br><br>
 ## 👨‍👩‍👧‍👦 Team
 
-- 기획/디자인 : 안나경 @
+- 기획/디자인 : 안나경<a href="https://github.com/nakyoungan" target="_blank">(@nakyoungan)</a>
 - Front-end : 전우정<a href="https://github.com/Woojung0618" target="_blank">(@Woojung)</a>
 - Back-end :
 김가은<a href="https://github.com/binggamel" target="_blank">(@binggamel)</a>
